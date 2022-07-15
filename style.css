@@ -1,0 +1,12 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1, p{
+    color: blueviolet;
+    text-align: center;
+    font-size: 70px;
+}
+p{
+    color: grey;
+    font-size: 20px;
+}
